@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** at [FalconX](https://falconx.io), working on the **FalconX360** team. I'm passionate about building scalable, high-performance systems in the fintech and crypto space.
+I'm working on the **FalconX360** team. I'm passionate about building scalable, high-performance systems in the fintech and crypto space.
 
 ## 💼 Current Role
 
