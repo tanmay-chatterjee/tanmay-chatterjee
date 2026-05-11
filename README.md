@@ -6,7 +6,7 @@ I'm working on the **FalconX360** team. I'm passionate about building scalable, 
 
 ## 💼 Current Role
 
-**Senior Software Engineer @ FalconX**
+**Staff Engineer @ FalconX**
 - 🏢 Team: **FalconX360**
 - 🔧 Building enterprise-grade solutions for institutional digital asset trading
 - 📊 Working on cutting-edge financial technology infrastructure
